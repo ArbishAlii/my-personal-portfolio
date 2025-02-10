@@ -10,6 +10,7 @@ interface PropsType {
 
 const Card: React.FC<PropsType> = ({ title, description, img, tags }) => {
   return (
+   
     <div className='border border-accent w-[300px] sm:w-[350px]'>
       <div>
         <Image className='w-[300px] sm:w-[350px] h-auto'
@@ -33,6 +34,7 @@ const Card: React.FC<PropsType> = ({ title, description, img, tags }) => {
       </div>
 
     </div>
+    
   )
 }
 

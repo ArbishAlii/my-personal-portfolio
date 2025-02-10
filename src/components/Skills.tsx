@@ -45,7 +45,7 @@ const Skills = () => {
             My Technical Expertise
           </h2>
           <p className='text-white-600 pt-4 leading-relaxed'>
-            I'm a front-end developer passionate about crafting engaging, intuitive, and responsive web experiences. 
+            I&apos;m a front-end developer passionate about crafting engaging, intuitive, and responsive web experiences. 
             My expertise includes *HTML, CSS, JavaScript, and modern frameworks like React and Next.js*. 
             I blend creativity with best practices to ensure every project is *visually appealing* and *high-performing* across all devices.
           </p>

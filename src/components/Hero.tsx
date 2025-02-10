@@ -43,7 +43,7 @@ const Hero = () => {
         </div>
         <div className="lg:w-1/2 text-center lg:text-left mt-8 lg:mt-0">
           <h1 className="text-5xl sm:text-6xl font-extrabold leading-tight">
-            I'm <span className="text-blue-400">Arbish Ali</span>
+            I&apos;m <span className="text-blue-400">Arbish Ali</span>
           </h1>
           <p className="mt-4 text-lg text-gray-300">
             A passionate Frontend Developer crafting beautiful & functional websites.

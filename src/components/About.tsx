@@ -19,7 +19,7 @@ const About = () => {
       <h2 className='text-5xl font-bold text-accent mb-6'>About Me</h2>
       <div className='max-w-3xl bg-gradient-to-r from-gray-100 to-gray-200 shadow-xl rounded-xl p-8 flex flex-col gap-4'>
         <p className='text-gray-700 text-lg leading-relaxed'>
-          I'm currently pursuing a <span className='font-semibold text-accent'>BS in Computer Science</span>, specializing in front-end web development. Through dedicated learning, I focus on crafting modern, responsive, and user-friendly web interfaces.
+          I&apos;m currently pursuing a <span className='font-semibold text-accent'>BS in Computer Science</span>, specializing in front-end web development. Through dedicated learning, I focus on crafting modern, responsive, and user-friendly web interfaces.
         </p>
         <p className='text-gray-700 text-lg leading-relaxed'>
           Passionate about <span className='font-semibold text-accent'>design and interactivity</span>, I continuously explore new technologies and frameworks to bring ideas to life with a seamless user experience.
